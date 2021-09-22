@@ -1,2 +1,2 @@
 # git_pla
-#git練習用
+- git練習用
